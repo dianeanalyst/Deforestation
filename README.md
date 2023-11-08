@@ -33,5 +33,5 @@ There are 6 questions assigned to be answered in this project.
 
 6. What area the countries from each region or continent having the highest total forest area?
 ![image](https://github.com/dianeanalyst/Deforestation/assets/120665115/d67c8e45-f206-4510-83ad-8397785e876d)
-
-
+# Conclusion
+Working on this project has been impactful. Writing queries to carry out data modification and analysis is easy using the SQL as there are many functions available for use in these processes.
